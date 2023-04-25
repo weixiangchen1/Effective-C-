@@ -1,1 +1,1 @@
-# Effective-C-
+# note for Effective C++
